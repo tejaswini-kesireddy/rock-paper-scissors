@@ -1,7 +1,5 @@
 package RockPaperScissors;
 
-//package edu.missouristate;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -15,8 +13,7 @@ public class RockPaperScissors
 	
 	public RockPaperScissors() {		
 	}
-	
-	
+
 	/**
 	 * Play Game
 	 * @throws Exception
